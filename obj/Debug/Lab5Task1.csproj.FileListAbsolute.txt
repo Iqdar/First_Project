@@ -1,0 +1,7 @@
+D:\Iqdar\Studies\Semester 4\Object Oriented Software Engineering\Lab\Lab5Task1\bin\Lab5Task1.dll.config
+D:\Iqdar\Studies\Semester 4\Object Oriented Software Engineering\Lab\Lab5Task1\bin\Lab5Task1.dll
+D:\Iqdar\Studies\Semester 4\Object Oriented Software Engineering\Lab\Lab5Task1\bin\Lab5Task1.pdb
+D:\Iqdar\Studies\Semester 4\Object Oriented Software Engineering\Lab\Lab5Task1\obj\Debug\Lab5Task1.csprojResolveAssemblyReference.cache
+D:\Iqdar\Studies\Semester 4\Object Oriented Software Engineering\Lab\Lab5Task1\obj\Debug\Lab5Task1.csproj.CoreCompileInputs.cache
+D:\Iqdar\Studies\Semester 4\Object Oriented Software Engineering\Lab\Lab5Task1\obj\Debug\Lab5Task1.dll
+D:\Iqdar\Studies\Semester 4\Object Oriented Software Engineering\Lab\Lab5Task1\obj\Debug\Lab5Task1.pdb
